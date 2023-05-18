@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+*{
+	font-family:sans-serif;
+}
+img{
+	height:300px;
+}
